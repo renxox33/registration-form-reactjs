@@ -1,0 +1,15 @@
+.container{
+    margin-top: 7%;
+    border: 1px solid grey;
+    border-top: none;
+    border-radius: 10px;
+}
+
+h3{
+    padding-top: 5%;
+    margin-bottom: 5%;
+}
+
+button {
+    margin-bottom: 20px;
+}
